@@ -1,0 +1,1 @@
+g++ -o solitaire main.cpp Card.cpp CardCreator.cpp DoublyLinkedList.cpp MovementDriver.cpp Node.cpp Printer.cpp Queue.cpp Shuffler.cpp Stack.cpp 
